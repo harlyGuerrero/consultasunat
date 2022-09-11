@@ -48,8 +48,6 @@
                 </div>
             </div>
         </div>
-
-
 <script>
     $('#buscar').click(function(){
         dni=$('#documento').val();
