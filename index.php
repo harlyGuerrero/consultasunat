@@ -1,34 +1,4 @@
 <?php  include("first/header.php"); ?>
-        <!-- <h3>CONSULTA DE DNI</h3>
-        <div class="btn-group">
-            <input type="text" id="documento" class="form-control">
-            <button type="button" class="btn btn-dark" id="buscar">
-                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
-                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
-                </svg>
-            </button>
-        </div>
-        <br><br>
-        <div class="row" style="width: 100%;">
-        <table class="table">
-        <thead class="row"> 
-            <tr class="col-12">
-            <th scope="col-sm-12 cold-md-3">#</th>
-            <th scope="col-sm-12 cold-md-3">Apellido Paterno</th>
-            <th scope="col-sm-12 cold-md-3">Apellido Materno</th>
-            <th scope="col-sm-12 cold-md-3">Nombres</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-            <th scope="row">-</th>
-            <td><input type="text" class="form-control" id="apellidoPaterno" disabled></td>
-            <td><input type="text" class="form-control" id="apellidoMaterno" disabled></td>
-            <td><input type="text" class="form-control" id="nombre" disabled></td>
-            </tr>
-        </tbody>
-        </table>
-        </div> -->
         <div class="hdev_sunat-card">
             <div class="wave">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
